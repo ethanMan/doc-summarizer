@@ -1,11 +1,11 @@
-docSummarizer
+# docSummarizer
 
 docSummarizer is a Python app that takes a pdf as input, and summarizes the core concepts of that document into a text file.
 This can save a reader time as they may not need to read the entire document, or they may elect to use the summarizer as a pre-read so that at the time of their actual first read, they have more background knowledge about the subject.
 docSummarizer uses Google Cloud and Codeq NLP APIs.
 
 
-Getting started
+**Getting started**
 
 To run the application, type:
 python3 main.py input.pdf
@@ -15,7 +15,7 @@ Raw text file. This contains extracted text from the input pdf. Using the exampl
 Summarized text file. This contains summary text from the input pdf. Using the example above, a file named input-summarized-text.txt is generated
 
 
-Supported languages
+**Supported languages**
 
 English only at the moment.
 
