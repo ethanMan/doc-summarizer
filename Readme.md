@@ -5,7 +5,7 @@ This can save a reader time as they may not need to read the entire document, or
 docSummarizer uses Google Cloud and Codeq NLP APIs.
 
 
-##Getting started
+## Getting started
 
 To run the application, type:
 python3 main.py input.pdf
@@ -15,7 +15,7 @@ Raw text file. This contains extracted text from the input pdf. Using the exampl
 Summarized text file. This contains summary text from the input pdf. Using the example above, a file named input-summarized-text.txt is generated
 
 
-##Supported languages
+## Supported languages
 
 English only at the moment.
 
