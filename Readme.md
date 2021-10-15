@@ -12,6 +12,7 @@ To run the application, type python3 main.py input.pdf where input.pdf is a file
 When executing the above, two files get generated: 
 
 -Raw text file. This contains extracted text from the input pdf. Using the example above, a file named input-raw-text.txt is generated.
+
 -Summarized text file. This contains summary text from the input pdf. Using the example above, a file named input-summarized-text.txt is generated.
 
 
